@@ -7,14 +7,16 @@
         "width",
         "usage_waterway",
         "intermittent",
-        "lock"
+        "lock",
+        "canoe"
     ],
     "moreFields": [
         "bridge/name",
         "fishing",
         "gnis/feature_id-US",
         "salt",
-        "tidal"
+        "tidal",
+        "boat"
     ],
     "geometry": [
         "line"

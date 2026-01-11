@@ -6,12 +6,16 @@
         "width",
         "salt",
         "tidal",
-        "intermittent"
+        "intermittent",
+        "open_water",
+        "rapids",
+        "canoe"
     ],
     "moreFields": [
         "covered",
         "fishing",
-        "gnis/feature_id-US"
+        "gnis/feature_id-US",
+        "boat"
     ],
     "geometry": [
         "line"

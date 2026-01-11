@@ -3,19 +3,15 @@
     "fields": [
         "name",
         "structure_waterway",
-        "width",
-        "intermittent",
         "tidal",
-        "rapids",
+        "open_water",
         "canoe"
     ],
     "moreFields": [
-        "covered",
         "fishing",
-        "gnis/feature_id-US",
+        "boat",
         "salt",
-        "open_water",
-        "boat"
+        "rapids"
     ],
     "geometry": [
         "line"
@@ -33,10 +29,13 @@
         "runnel",
         "stream",
         "tributary",
-        "watercourse"
+        "watercourse",
+        "lake",
+        "reservoir",
+        "pond"
     ],
     "tags": {
-        "waterway": "river"
+        "waterway": "flowline"
     },
-    "name": "River"
+    "name": "Flowline"
 }

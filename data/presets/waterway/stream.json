@@ -4,14 +4,17 @@
         "name",
         "structure_waterway",
         "width",
-        "intermittent"
+        "intermittent",
+        "rapids",
+        "canoe"
     ],
     "moreFields": [
         "covered",
         "fishing",
         "gnis/feature_id-US",
         "salt",
-        "tidal"
+        "tidal",
+        "boat"
     ],
     "geometry": [
         "line"
