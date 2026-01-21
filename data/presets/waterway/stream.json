@@ -4,9 +4,7 @@
         "name",
         "structure_waterway",
         "width",
-        "intermittent",
-        "rapids",
-        "canoe"
+        "intermittent"
     ],
     "moreFields": [
         "covered",
@@ -14,6 +12,8 @@
         "gnis/feature_id-US",
         "salt",
         "tidal",
+        "rapids",
+        "canoe",
         "boat"
     ],
     "geometry": [
