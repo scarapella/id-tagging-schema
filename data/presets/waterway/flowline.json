@@ -2,12 +2,12 @@
     "icon": "iD-waterway-river",
     "fields": [
         "name",
-        "structure_waterway",
         "tidal",
         "open_water",
         "canoe"
     ],
     "moreFields": [
+        "structure_waterway",
         "fishing",
         "boat",
         "salt",

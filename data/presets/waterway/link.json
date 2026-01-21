@@ -4,13 +4,14 @@
         "name",
         "structure_waterway",
         "intermittent",
+        "tidal",
         "open_water",
         "rapids",
         "canoe"
     ],
     "moreFields": [
-        "boat",
-        "salt"
+        "salt",
+        "boat"
     ],
     "geometry": [
         "line"
