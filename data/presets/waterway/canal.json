@@ -15,8 +15,7 @@
         "fishing",
         "gnis/feature_id-US",
         "salt",
-        "tidal",
-        "boat"
+        "tidal"
     ],
     "geometry": [
         "line"

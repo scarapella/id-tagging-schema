@@ -14,8 +14,7 @@
         "fishing",
         "gnis/feature_id-US",
         "salt",
-        "open_water",
-        "boat"
+        "open_water"
     ],
     "geometry": [
         "line"
